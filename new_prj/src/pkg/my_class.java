@@ -15,6 +15,8 @@ public class my_class {
 
 		System.out.println("hello world");
 		System.out.println("hello world");
+
+		System.out.println("hello world");
 	}
 
 }
